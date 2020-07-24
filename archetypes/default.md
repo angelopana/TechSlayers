@@ -1,8 +1,9 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title:  "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
-Description: ""
-Tags: []
-Categories: []
+tags: []
+featured_image: ""
+description: ""
 ---
+
 
