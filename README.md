@@ -1,2 +1,2 @@
 # TechSlayers
-Rebuilding TechSlayers LLC. website
+Recreating TechSlayers LLC. website, with the use of HUGO. 
