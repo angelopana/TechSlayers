@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "TechSlayers"
-theme = "ananke"
+theme = "demo"
 
 
 
