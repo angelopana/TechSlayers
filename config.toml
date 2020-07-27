@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "TechSlayers"
 # theme = "ananke"
 
+
+# For the Theme import, for team members on project to render SITE
 [module]
     [[module.imports]]
     path = "github.com/theNewDynamic/gohugo-theme-ananke"
