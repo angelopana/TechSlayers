@@ -2,12 +2,14 @@
 Title: "About"
 date: "2018-02-11"
 # omit_header_text: true
-description: We'd love to hear from you
+description: America's Cyber Experts
 # type: page 
-menu: main
 
 ---
 
-## about me
+## ABOUT TECH SLAYERS
 
-Hi there, you just reached my blog.
+America's Cyber Experts
+
+100% Veteran-owned Tech School and Services company. We exist to support the veteran community, helping them attain high paying jobs in the tech field.
+

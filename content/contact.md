@@ -2,12 +2,15 @@
 title:  "Contact"
 date: 2020-07-24T13:41:38-07:00
 omit_header_text: true
-description: We'd love to hear from you
-type: page
-menu: main
+description: contact 
+type: 
 ---
 
 
-# Contact Page
+### THE FUTURE IS HERE, DONT GET LEFT BEHIND!
 
-hopefully this shit shows up on the header
+Ready to begin your career in Tech?
+
+
+Email us at: 
+> __support@techslayers.com__
