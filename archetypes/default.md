@@ -4,6 +4,7 @@ date: {{ .Date }}
 tags: []
 featured_image: ""
 description: ""
+omit_header_text: ""
 ---
 
 
