@@ -1,19 +1,35 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "TechSlayers"
-# theme = "ananke"
-
 
 
 [menu]
+
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight= 1    
+
     [[menu.main]]
         identifier = "about"
         name = "About"
         url = "/about"
+    
+    [[menu.main]]
+        name = "Courses"
+        url = "/courses"
+        weight= 2    
 
     [[menu.main]]
         name = "Contact"
         url = "/contact"
+
+    [[menu.main]]
+        name = "FAQ<empty>"
+        url = "/"    
+    
+
+
 
 
 # For the Theme import, for team members on project to render SITE
@@ -41,7 +57,7 @@ title = "TechSlayers"
   background_color_class = "bg-black"
   body_classes = ""
   post_content_classes = ""
-  featured_image = ""
+  featured_image = "/img/serverBanner.jpg"
   recent_posts_number = 2
 
 

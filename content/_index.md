@@ -3,8 +3,7 @@ title: "Home"
 date: 2020-07-24T13:20:29-07:00
 omit_header_text: true
 description: Helping Veterans evrywhere
-type: page
-menu: main
+featured_image: "/img/sg1.jpg"
 weight: 1
 ---
 
