@@ -6,8 +6,9 @@ featured_image: ""
 description: ""
 ---
 
-
 ## CompTIA Fundamentals
+
+
 DEMO Link
 - [CompTIA IT Fundamentals](https://techslayers.thrivecart.com/comptia-itf/)
 - [CompTIA A+](https://techslayers.thrivecart.com/comptia-a/)
