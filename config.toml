@@ -41,9 +41,6 @@ DefaultContentLanguage = "en"
         url = "/"    
     
 
-
-
-
 # For the Theme import, for team members on project to render SITE
 [module]
     [[module.imports]]
